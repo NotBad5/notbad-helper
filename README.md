@@ -1,7 +1,7 @@
 # notbad-helper
 FiveM script, function to get name from hash key.
 
-Works in client and server sided scripts.
+Works in client and server sided scripts. Works on non addon entities.
 
 Functions:
 - GetPedName(hashKey)
